@@ -1,14 +1,3 @@
 
 
-img/update
-
-
-
-
- 
- 
- 
- 
- 
- 罕见
- 
+img/up
